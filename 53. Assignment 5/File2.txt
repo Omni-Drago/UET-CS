@@ -1,0 +1,6 @@
+MGT-100 Introduction_to_Business			3 1active
+HU-111 Communication_Skills			1 2discontinued
+BIT-272 Database_Systems			3 3active
+BIT-371 Software_Engineering			3 5active
+BIT-376 Web_Development			3 5active
+BIT-374 Digital_Marketing			3 6discontinued
